@@ -1,6 +1,7 @@
 # Assignment2_kbs
 KBS Assignment 2
-
+R178459R Kundai Mujati 
+Sinikiwe ngwenya r176519r
 
 [notebook link]
 
